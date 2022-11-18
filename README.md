@@ -6,7 +6,7 @@ Projekt na narzędzia informatyczne.
 
 - Michał Krzempek - [miskrz](https://github.com/miskrz)
 - Artur Sojka - [ArturSojka](https://github.com/ArturSojka)
-- Gabrysia Żmuda - [waluszekp](https://github.com/waluszekp)
+- Piotr Waluszek - [waluszekp](https://github.com/waluszekp)
 
 ### O nas
 
