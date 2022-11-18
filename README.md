@@ -2,6 +2,8 @@
 
 Projekt na narzędzia informatyczne.
 
+![KSW](https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png).
+
 ## Autorzy
 
 - Michał Krzempek - [miskrz](https://github.com/miskrz)
