@@ -24,7 +24,7 @@ Trzech niezrównożonych młodych chłopaków z V bielskiego LO, którzy pragną
 Aplikacja zostanie napisana przy użyciu języka Python oraz m.in. blibliotek: Tkinter, Requests, Pillow.
 
 ### O aplikacji
-[comment]: <> (Artura część)
+Będzie to prosta aplikacja, która pozwoli użytkownikowi wyszukać dowolne miasto i wyświetlić aktualną pogodę w jego lokalizacji.
 
 ### Licencja
 Przekierowanie do [Licencji](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/KSW3/blob/main/LICENSE.md)
