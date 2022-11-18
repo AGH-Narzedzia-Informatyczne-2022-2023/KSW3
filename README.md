@@ -12,16 +12,16 @@ Projekt na narzędzia informatyczne.
 
 ### O nas
 
-Trzej niezrównożonych młodych chłopaków z V bielskiego LO, którzy pragną sprawdzić pogodę w dowolnym mieście, korzystając z własnej okienkowej aplikacji, na własnym komputerze.
+Trzech niezrównożonych młodych chłopaków z V bielskiego LO, którzy pragną sprawdzić pogodę w dowolnym mieście, korzystając z własnej okienkowej aplikacji, na własnym komputerze.
 
 ### Zamysł projektu
 
 | Czego dotyczy projekt?                                          | Czemu ma służyć?                    | Czy ktoś zrobił coś podobnego?                                |
 | --------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------- |
-| _Okienkowej aplikacji do sprawdzania pogody w zadanym mieście._ | **Nauce narzędzi informatycznych.** | **_Tak, próbujemy się wzorować na istniejących projektach._** |
+| **_Okienkowej aplikacji do sprawdzania pogody w zadanym mieście._** | **Nauce narzędzi informatycznych.** | _Tak, próbujemy się wzorować na istniejących projektach._ |
 
 ### Technologie
-Gra zostanie napisana przy użyciu języka Python oraz m.in. blibliotek: Tkinter, Requests, Pillow.
+Aplikacja zostanie napisana przy użyciu języka Python oraz m.in. blibliotek: Tkinter, Requests, Pillow.
 
 ### O aplikacji
 [comment]: <> (Artura część)
