@@ -4,3 +4,4 @@ while True:
     licznik += 1
     if licznik >= 5:
         break
+       #naprawione
