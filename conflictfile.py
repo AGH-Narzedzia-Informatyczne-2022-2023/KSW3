@@ -1,3 +1,4 @@
+#komentarz
 licznik = 0
 while True:
     print licznik,
